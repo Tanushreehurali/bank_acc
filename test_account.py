@@ -1,4 +1,4 @@
-rom account import account_details
+from account import account_details
 
 def test_account_details():
     result = account_details(
