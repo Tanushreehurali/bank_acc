@@ -8,4 +8,4 @@ expected=(
     "balance=32000\n"
 
 )
-assert result==expected
+assert return==expected
