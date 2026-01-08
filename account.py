@@ -10,7 +10,7 @@ def account_details(acc_no,acc_name,acc_type,bal):
 
 if __name__ == "__main__":
     acc_no= "24ECF123"
-    acc_name = "E190"
+    acc_name = "tanu"
     acc_type = "savings"
     bal = 32000
 
